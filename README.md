@@ -6,7 +6,7 @@ A Streamlit-based web application that uses the **Groq API with LLaMA 3** to gen
 
 ## 🚀 Live Demo
 
-👉 [Open the App](https://your-fun-fact-generator-app-url.streamlit.app/)
+👉 [Open the App](https://fun-fact-generator-bfvrhlmeck3khtl6lfhism.streamlit.app/)
 
 *(Replace with your actual deployed Streamlit URL if you deploy the app.)*
 
